@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-const Repoitem = ({ repo, key }) => {
+const Repoitem = ({ repo }) => {
   return (
     <div className='card '>
       <h3>
